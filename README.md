@@ -6,3 +6,6 @@ Bu proje, bir restoran işletmesinin sipariş, müşteri ve ürün verilerini an
 
 ⚠️ Veri Seti Notu: Bu projede kullanılan veri tabanı gerçek bir işletmeye ait değildir.
 
+Görseli:
+<img width="1357" height="730" alt="image" src="https://github.com/user-attachments/assets/b41592b2-873f-49d7-9da4-711ee0cfa5bb" />
+
